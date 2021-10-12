@@ -91,3 +91,28 @@ Hey, this is a shell I created!
 * `sig.c` is code related to `sig` function
 * `utilities.c` contains some functions which are used everywhere
 * `header.h` contains some headers and function definitions
+
+.
+├── cd.c
+├── command.c
+├── ground.c
+├── header.h
+├── info.c
+├── jobs.c
+├── LICENSE
+├── ls.c
+├── Makefile
+├── pinfo.c
+├── pipe.c
+├── print.c
+├── pwd.c
+├── README.md
+├── redirect.c
+├── replay.c
+├── sash
+├── sash.c
+├── sig.c
+├── signal.c
+└── utilities.c
+
+
